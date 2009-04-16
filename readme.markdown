@@ -1,3 +1,7 @@
+# license
+
+http://creativecommons.org/licenses/by-sa/3.0/
+
 # disclaimer ;)
 
 communication is king. this paper provides some best practices but guidelines only work if people understand why they are useful and important. this is also necessary so that people are able to adapt recommendations to their specific situations. basically this means everybody needs the same vision/get the idea. else all best practice guidelines simply don't work.
