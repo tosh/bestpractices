@@ -57,3 +57,4 @@ propose pair programming for essential features in addition to code reviews?
 * http://code.google.com/p/gerrit/
 * http://code.google.com/p/rietveld/
 * http://www.youtube.com/watch?v=sMql3Di4Kgc (mondrian)
+* http://www.basilv.com/psd/blog/2007/strategies-for-effective-code-reviews
