@@ -54,11 +54,11 @@
 
 ## references 
 
-* http://www.wildbit.com/blog/2008/11/11/the-importance-of-commit-messages/
-* http://docs.djangoproject.com/en/dev/internals/contributing/#committing-code
-* http://lbrandy.com/blog/2009/03/writing-better-commit-messages/
-* http://drupal.org/node/52287
-* http://wiki.scummvm.org/index.php/Commit_Guidelines
+* http://www.wildbit.com/blog/2008/11/11/the-importance-of-commit-messages/ (pdf)
+* http://docs.djangoproject.com/en/dev/internals/contributing/#committing-code (pdf)
+* http://lbrandy.com/blog/2009/03/writing-better-commit-messages/ (pdf)
+* http://drupal.org/node/52287 (pdf)
+* http://wiki.scummvm.org/index.php/Commit_Guidelines (pdf)
 
 # push changes to the team
 

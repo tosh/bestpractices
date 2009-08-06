@@ -52,9 +52,9 @@ propose pair programming for essential features in addition to code reviews?
 
 ## references
 
-* http://www.codinghorror.com/blog/archives/000999.html
+* http://www.codinghorror.com/blog/archives/000999.html (pdf)
 * http://en.wikipedia.org/wiki/Bus_factor
 * http://code.google.com/p/gerrit/
 * http://code.google.com/p/rietveld/
 * http://www.youtube.com/watch?v=sMql3Di4Kgc (mondrian)
-* http://www.basilv.com/psd/blog/2007/strategies-for-effective-code-reviews
+* http://www.basilv.com/psd/blog/2007/strategies-for-effective-code-reviews (pdf)

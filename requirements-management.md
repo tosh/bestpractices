@@ -33,5 +33,5 @@
 
 ## references
 
-* http://www.joelonsoftware.com/articles/fog0000000029.html
-* http://www.bugzilla.org/docs/tip/en/html/lifecycle.html
+* http://www.joelonsoftware.com/articles/fog0000000029.html (pdf)
+* http://www.bugzilla.org/docs/tip/en/html/lifecycle.html (pdf)
