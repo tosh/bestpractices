@@ -31,6 +31,16 @@ introduce pair programming as extreme version of code reviews
 
 propose pair programming for essential features in addition to code reviews?
 
+# suggestions
+
+* add code review discussion and conclusions as comments to written code
+  * improves/adds documentation about reasoning
+  * makes the process more transparent to others or when reviewed in the future
+* try to improve the situation together instead of blaming
+  * this might be easier in pair programming as it is not asynchronous and everyone is involved
+  * whereas code reviews usually pose a "submit - accept/reject" scenario
+  * though ultimately it comes down to how well people work and communicate with each other
+
 # tools
 
 * diff
